@@ -25,12 +25,12 @@ header .titulo {
 }
 
 main {
-	margin-top: 60px;
+	margin-top: 0;
 }
 
 main .contenedor {
-	width: 90%;
-	max-width: 1000px;
+	width: 100%;
+	max-width: 100%;
 	margin: auto;
 }
 
